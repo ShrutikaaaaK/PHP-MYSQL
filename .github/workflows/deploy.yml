@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_REGION: us-east-2
-  ECR_REPOSITORY: your-ecr-repo-name
+  ECR_REPOSITORY: php-app
   ECS_CLUSTER: your-cluster-name
   ECS_SERVICE: your-service-name
   ECS_TASK_DEFINITION: your-task-def.json
