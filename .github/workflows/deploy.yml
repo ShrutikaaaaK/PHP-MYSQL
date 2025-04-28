@@ -9,7 +9,7 @@ env:
   AWS_REGION: us-east-2
   ECR_REPOSITORY: php-app
   ECS_CLUSTER: php-app-cluster
-  ECS_SERVICE: your-service-name
+  ECS_SERVICE: php-td2-service-wddmvoft 
   ECS_TASK_DEFINITION: your-task-def.json
   CONTAINER_NAME: your-container-name
 
